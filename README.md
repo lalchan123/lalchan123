@@ -6,7 +6,7 @@ I am a software engineer and well-qualified full-stack web developer with more t
 
 
 <i><b> Skills:</b></i> <br />
-  <b>Backend-Technology:</b> Python/ Django / Django REST framework / GraphQL/ Celery/ Channels/ Websockets/ Web Scrapping/ NLTK/ Dataframe/ Node JS/ Express JS/ Develop API Testing/ Integrating 3rd Party APIs  <br />
+  <b>Backend-Technology:</b> Python/ Django / Django REST framework / GraphQL/ Celery/ Channels/ Websockets/ Web Scrapping/ NLTK/ Dataframe/ Node JS/ Express JS/ Develop API and Testing/ Integrating 3rd Party APIs  <br />
   <b>Frontend-Technology:</b> HTML / CSS / Javascript / TypeScript / React / React Native/ Next js/ Redux/ Redux Toolkit   <br />
   <b>CSS Framework :</b> Bootstrap / React Bootstrap/ TailwindCSS /  Material UI/ Ant Design <br />
   <b>Database :</b> MongoDB / MySQL / Postgresql / SQLite / <br />
