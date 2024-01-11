@@ -12,8 +12,4 @@ I am a software engineer and well-qualified full-stack web developer with more t
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalchan123&show_icons=true&locale=en&layout=compact" alt="lalchan123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalchan123&show_icons=true&locale=en" alt="lalchan123" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalchan123&" alt="lalchan123" /></p>
