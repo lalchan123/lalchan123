@@ -17,8 +17,8 @@ I am a software engineer and well-qualified full-stack web developer with more t
 <b>Mobile App list :</b>
 <ul>
   <li> <a href='https://github.com/lalchan123/gotodawatinvitationmobileapp'> Invitation Mobile App (Code Private) - 2023  <img align="center" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/star.png?alt=media&token=cd5254c2-d471-45f4-a701-588af53e7e8b" height="20" width="20" /> </a> </li>
-  <li> <a href='https://github.com/lalchan123/driver-license-education-mobile-app'>  Driver License Education Mobile App- 2023  <img align="center" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/star.png?alt=media&token=cd5254c2-d471-45f4-a701-588af53e7e8b" height="20" width="20" /> </a> </li>
-  <li> <a href='https://github.com/lalchan123/allah99names'>  Allah 99 Names- 2023  <img align="center" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/star.png?alt=media&token=cd5254c2-d471-45f4-a701-588af53e7e8b" height="20" width="20" /> </a> </li>
+  <li> <a href='https://github.com/lalchan123/driver-license-education-mobile-app'>  Driver License Education Mobile App (Code Private)- 2023  <img align="center" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/star.png?alt=media&token=cd5254c2-d471-45f4-a701-588af53e7e8b" height="20" width="20" /> </a> </li>
+  <li> <a href='https://github.com/lalchan123/allah99names'>  Allah 99 Names (Code Private)- 2023  <img align="center" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/star.png?alt=media&token=cd5254c2-d471-45f4-a701-588af53e7e8b" height="20" width="20" /> </a> </li>
   <li> <a href='https://github.com/lalchan123/Job-Finder-App'> Job Finder App- 2022  <img align="center" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/star.png?alt=media&token=cd5254c2-d471-45f4-a701-588af53e7e8b" height="20" width="20" /> </a> </li>
 </ul>
 
