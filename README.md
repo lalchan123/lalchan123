@@ -14,7 +14,7 @@ I am a software engineer and well-qualified full-stack web developer with more t
 </ul>
 
 
-<b>Mobile Project list :</b>
+<b>Mobile App list :</b>
 <ul>
   <li> <a href='https://github.com/lalchan123/gotodawatinvitationmobileapp'> Invitation Mobile App (Code Private) - 2023  <img align="center" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/star.png?alt=media&token=cd5254c2-d471-45f4-a701-588af53e7e8b" height="20" width="20" /> </a> </li>
   <li> <a href='https://github.com/lalchan123/driver-license-education-mobile-app'>  Driver License Education Mobile App- 2023  <img align="center" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/star.png?alt=media&token=cd5254c2-d471-45f4-a701-588af53e7e8b" height="20" width="20" /> </a> </li>
