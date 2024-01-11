@@ -1,4 +1,4 @@
-<!-- ![Software Developer](https://media-exp1.licdn.com/dms/image/C5616AQHVCoi3gg2_PA/profile-displaybackgroundimage-shrink_200_800/0/1641114394172?e=1646870400&v=beta&t=YsJW3HBvfAl_qYjr-8F8qrpZUJ7R9mXE1MNO0m6dUwk) -->
+
 
 ### Hi there, I'm LALCHAN BADSA
 #### Software Engineer
@@ -10,7 +10,7 @@ I am a software engineer and well-qualified full-stack web developer with more t
 <b>Web Project list :</b>
 <ul>
   <li> <a href='https://www.researchrider.com/'> Research Rider (Code Private) - 2022  <img align="center" src="star.png" height="20" width="20" /> </a> </li>
-  <li> <a href='https://domain-it-civil.netlify.app'> Domain IT Civil - React - Django-rest-framework - 2023 (Code Private) <img align="center" src="star.png" height="20" width="20" /> </a> 
+  <li> <a href='https://domain-it-civil.netlify.app'> Domain IT Civil - React - Django-rest-framework (Code Private) - 2022  <img align="center" src="star.png" height="20" width="20" /> </a> 
 </ul>
 
 
