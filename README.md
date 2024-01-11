@@ -8,7 +8,7 @@ I am a software engineer and well-qualified full-stack web developer with more t
 <b>Web Project list :</b>
 <ul>
   <li> <a href='https://www.researchrider.com/'> Research Rider (Code Private) - 2022  <img align="center" src="star.png" height="20" width="20" /> </a> </li>
-  <li> <a href='https://domain-it-civil.netlify.app'> Donate IT Civil - React - Django-rest-framework 2023 <img align="center" src="star.png" height="20" width="20" /> </a> 
+  <li> <a href='https://domain-it-civil.netlify.app'> Domain IT Civil - React - Django-rest-framework - 2023 (Code Private) <img align="center" src="star.png" height="20" width="20" /> </a> 
 </ul>
 
 
