@@ -40,7 +40,22 @@ I am a software engineer and well-qualified full-stack web developer with more t
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UCWg8GEDwfz3uk9XjBp2bkXA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="powerful allah" height="30" width="40" /></a>
+  <a href="https://lalchan.xyz/" target="blank" title="website">  
+    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/Blue_globe_icon.png?alt=media&token=9c0877bf-3f55-46b2-95fc-514429a78857" height="40" width="40" alt="website" />
+  </a> 
+  <a href="https://www.linkedin.com/in/lalchan-badsa-0b5b4917b/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-khan-487902176" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/23228864/lalchan-badsa" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arifkhanshanto" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100087751062177" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aks.khan.7334" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61554904090265" target="blank">
+    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/facebookpage.png?alt=media&token=cd202afb-99de-4b44-a8df-d65ab01c7c52" alt="aks.khan.7334" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCWg8GEDwfz3uk9XjBp2bkXA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="powerful allah" height="30" width="40" /></a>
 </p>
 
 
