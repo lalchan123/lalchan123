@@ -5,6 +5,13 @@ I am a software engineer and well-qualified full-stack web developer with more t
 </p>
 
 
+<b>Web Project list :</b>
+<ul>
+  <li> <a href='https://www.researchrider.com/'> Research Rider (Code Private) - 2022  <img align="center" src="star.png" height="20" width="20" /> </a> </li>
+  <li> <a href='https://domain-it-civil.netlify.app'> Donate IT Civil - React - Django-rest-framework 2023 <img align="center" src="star.png" height="20" width="20" /> </a> </li>
+
+
+
 <i><b> Skills:</b></i> <br />
   <b>Backend-Technology:</b> Python/ Django / Django REST framework / GraphQL/ Celery/ Channels/ Websockets/ Web Scrapping/ NLTK/ Dataframe/ Node JS/ Express JS/ Develop API and Testing/ Integrating 3rd Party APIs  <br />
   <b>Frontend-Technology:</b> HTML / CSS / Javascript / TypeScript / React / React Native/ Next js/ Redux/ Redux Toolkit   <br />
