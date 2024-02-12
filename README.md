@@ -15,6 +15,8 @@ I am a software engineer and well-qualified full-stack developer with more than 
   <li> <a href='https://drivereducation.itb-usa.a2hosted.com/'> Driver Education (Code Private) - 2023  <img align="center" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/star.png?alt=media&token=cd5254c2-d471-45f4-a701-588af53e7e8b" height="20" width="20" /> </a> </li>
   <li> <a href='https://www.youtube.com/watch?v=26YTAiCkKA4'> Heart Disease Prediction
  (Code Private) - 2021  <img align="center" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/star.png?alt=media&token=cd5254c2-d471-45f4-a701-588af53e7e8b" height="20" width="20" /> </a> </li>
+  <li> <a href='https://www.youtube.com/watch?v=E7sXR2axO14&t=1s'> Khobor24hour Newspaper
+ (Code Private) - 2021  <img align="center" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/star.png?alt=media&token=cd5254c2-d471-45f4-a701-588af53e7e8b" height="20" width="20" /> </a> </li>
 </ul>
 
 
