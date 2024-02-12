@@ -1,5 +1,5 @@
 
-<img align="center" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?alt=media&token=d4cbfda2-96d8-40ee-84d2-da2d25d6ccb0" alt="arifkhanshanto" height="80" width="100" />
+<img align="center" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?alt=media&token=d4cbfda2-96d8-40ee-84d2-da2d25d6ccb0" alt="arifkhanshanto" width="100%" />
 
 ### Hi there, I'm LALCHAN BADSA
 #### Software Engineer
