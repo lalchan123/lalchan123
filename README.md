@@ -52,7 +52,7 @@ I am a software engineer and well-qualified full-stack developer with more than 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://lalchan.xyz/" target="blank" title="website">  
+  <a href="https://portfolio-lalchan.vercel.app/" target="blank" title="website">  
     <img align="center" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/Blue_globe_icon.png?alt=media&token=9c0877bf-3f55-46b2-95fc-514429a78857" height="40" width="40" alt="website" />
   </a> 
   <a href="https://www.linkedin.com/in/lalchan-badsa-0b5b4917b/" target="blank">
